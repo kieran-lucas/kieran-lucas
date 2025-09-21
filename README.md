@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><big>Hi, I am Kieran Lucas!</big></strong>
+  <strong><h1>Hi, I am Kieran Lucas!</h1></strong>
 </p>
 </p>
 <p align="center">
