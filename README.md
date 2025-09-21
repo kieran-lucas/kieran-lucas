@@ -1,9 +1,6 @@
 <p align="center">
-  <span style="font-family: 'Lexend', sans-serif; font-size: 40px; font-weight: bold;">
-    Hi, I am Kieran Lucas!
-  </span>
+  <strong><big>Hi, I am Kieran Lucas!</big></strong>
 </p>
-
 </p>
 <p align="center">
 Passionate Game Developer & Computer Science student, exploring AI integration into products and building AI models for the future.
