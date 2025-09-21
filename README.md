@@ -1,6 +1,11 @@
-<!-- Banner / GIF header -->
+<!-- Banner / Anime coding header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
+  <img src="https://images.unsplash.com/photo-1612831661413-6a8e0b9c7b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5pbWUlMjBjb2Rpbmd8fDB8fHx8MTY5NTI1NzYwNw&ixlib=rb-4.0.3&q=80&w=600" width="600"/>
+</p>
+
+<!-- GitHub Contributions chart -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/KieranLucas" alt="Kieran's GitHub chart" />
 </p>
 
 <h1 align="center">Hi, I'm Kieran Lucas 👋</h1>
@@ -30,12 +35,12 @@ I enjoy solving challenging problems, experimenting with new technologies, and c
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Skill Levels** (for visual fun):
-- C++      ▓▓▓▓▓▓▓▓ 80%  
-- Python   ▓▓▓▓▓▓▓ 75%  
-- C#       ▓▓▓▓▓▓▓ 70%  
-- Unity    ▓▓▓▓▓▓ 65%  
-- Git/GitHub ▓▓▓▓▓ 60%  
+**Skill Levels** (beginner-friendly):
+- C++        ▓▓ 20%  
+- Python     ▓▓ 20%  
+- C#         ▓ 10%  
+- Unity      ▓ 10%  
+- Git/GitHub ▓ 10%  
 
 ---
 
@@ -57,20 +62,12 @@ I enjoy solving challenging problems, experimenting with new technologies, and c
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KieranLucas&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranLucas&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 📫 Contact Me
 <p align="center">
-  <a href="mailto:kieranlucas.work@gmail.com">
+  <a href="mailto:kieran.contact.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/">
+  <a href="https://www.facebook.com/kieran.lucascs/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
