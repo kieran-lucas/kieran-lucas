@@ -1,6 +1,7 @@
-<p align="center">
-  <strong><h1>Hi, I am Kieran Lucas!</h1></strong>
-</p>
+<div align="center">
+  <h1><strong>Hi, I am Kieran Lucas!</strong></h1>
+</div>
+
 </p>
 <p align="center">
 Passionate Game Developer & Computer Science student, exploring AI integration into products and building AI models for the future.
