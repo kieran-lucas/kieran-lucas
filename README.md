@@ -1,10 +1,18 @@
 
 
 <p align="center">
-  <img src="https://c.tenor.com/5p5l0A3Dz9IAAAAC/coding-anime.gif" width="300"/>
+  <code>
+    <pre>
+🟥🟧🟨 Hi, I am 🟩🟦🟪
+       _  __     _                       _             
+      | |/ /__ _| | _____ _ __ ___   ___| | _____ _ __ 
+      | ' // _` | |/ / _ \ '_ ` _ \ / _ \ |/ / _ \ '__|
+      | . \ (_| |   <  __/ | | | | |  __/   <  __/ |   
+      |_|\_\__,_|_|\_\___|_| |_| |_|\___|_|\_\___|_|   
+🟪🟦🟩🟨🟧🟥
+    </pre>
+  </code>
 </p>
-
-<h1 align="center">👋 Hi, I am <span style="color:#FF6F61">Kieran Lucas</span>!</h1>
 <p align="center">
 Passionate Game Developer & Computer Science student, exploring AI integration into products and building AI models for the future.
 </p>
