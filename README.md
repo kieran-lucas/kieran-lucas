@@ -1,5 +1,5 @@
 <p align="center">
-**𝐇𝐢, 𝐈 𝐚𝐦 𝐊𝐢𝐞𝐫𝐚𝐧 𝐋𝐮𝐜𝐚𝐬!** 👋
+**Hi, I am Kieran Lucas !**
 </p>
 </p>
 <p align="center">
