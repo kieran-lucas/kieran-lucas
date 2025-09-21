@@ -1,18 +1,9 @@
-
-
 <p align="center">
-  <code>
-    <pre>
-🟥🟧🟨 Hi, I am 🟩🟦🟪
-       _  __     _                       _             
-      | |/ /__ _| | _____ _ __ ___   ___| | _____ _ __ 
-      | ' // _` | |/ / _ \ '_ ` _ \ / _ \ |/ / _ \ '__|
-      | . \ (_| |   <  __/ | | | | |  __/   <  __/ |   
-      |_|\_\__,_|_|\_\___|_| |_| |_|\___|_|\_\___|_|   
-🟪🟦🟩🟨🟧🟥
-    </pre>
-  </code>
+  <h1 style="font-family: 'Verdana', sans-serif; font-weight: bold; color: #4CAF50;">
+    Hi, I am Kieran Lucas
+  </h1>
 </p>
+
 <p align="center">
 Passionate Game Developer & Computer Science student, exploring AI integration into products and building AI models for the future.
 </p>
