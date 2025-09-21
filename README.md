@@ -1,11 +1,10 @@
 
 
-<!-- GitHub Contributions chart -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/KieranLucas" alt="Kieran's GitHub chart" />
+  <img src="https://c.tenor.com/5p5l0A3Dz9IAAAAC/coding-anime.gif" width="300"/>
 </p>
 
-<h1 align="center">Hi, I'm Kieran Lucas 👋</h1>
+<h1 align="center">👋 Hi, I am <span style="color:#FF6F61">Kieran Lucas</span>!</h1>
 <p align="center">
 Passionate Game Developer & Computer Science student, exploring AI integration into products and building AI models for the future.
 </p>
