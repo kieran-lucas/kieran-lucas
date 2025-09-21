@@ -1,9 +1,4 @@
-<p align="center">
-  <h1 style="font-family: 'Verdana', sans-serif; font-weight: bold; color: #4CAF50;">
-    Hi, I am Kieran Lucas
-  </h1>
 </p>
-
 <p align="center">
 Passionate Game Developer & Computer Science student, exploring AI integration into products and building AI models for the future.
 </p>
