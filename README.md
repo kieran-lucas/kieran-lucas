@@ -1,7 +1,4 @@
-<!-- Banner / Anime coding header -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1612831661413-6a8e0b9c7b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5pbWUlMjBjb2Rpbmd8fDB8fHx8MTY5NTI1NzYwNw&ixlib=rb-4.0.3&q=80&w=600" width="600"/>
-</p>
+
 
 <!-- GitHub Contributions chart -->
 <p align="center">
